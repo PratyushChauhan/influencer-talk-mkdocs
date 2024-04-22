@@ -18,4 +18,12 @@
 * Clicking on any of the `credit` option will direct users to the payment page.
 * Here, users can pay using the payment method of their choice.
 
-<img src="./payment.png" width=150 >
+<img src="./paymets.jpg" width=150 >
+
+## Transaction History
+
+* Tapping on this icon will take the user to the transaction history made by the user.
+
+<img src="./transaction history.jpg" width=150 >
+
+
