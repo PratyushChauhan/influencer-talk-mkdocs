@@ -14,6 +14,7 @@
 ## Home Page
 
 <img src="home page.jpg" width=150 >
+<img src="image.png" width=150 >
 
 * Home page consists of a list of available influencers
 * Chat Button and View profile buttons are used to chat with the influencer and view their profile respectively
