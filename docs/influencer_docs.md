@@ -1,12 +1,19 @@
 # Influencers Docs
 
 ## Profile
-<img src="../image-1.png" width=150 >
-<img src="../image-2.png" width=150 >
+<img src="../image-15.png" width=150 >
+<img src="../image-16.png" width=150 >
 
 * Navigate to the home page and tap `view profile`.
 * An influencer can change their profile details, update their social handles, and their connection charges
 
+## Featured Videos
+
+<img src="../image-17.png" width=150 >
+<img src="../image-18.png" width=150 >
+
+* Influencers can edit featured videos from their profile page.
+* Swipe the card to reveal the featured video.
 
 ## Influencer Collabs
 

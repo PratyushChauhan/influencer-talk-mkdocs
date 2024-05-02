@@ -19,6 +19,12 @@
 * Home page consists of a list of available influencers
 * Chat Button and View profile buttons are used to chat with the influencer and view their profile respectively
 
+## Featured Videos
+
+<img src="../image-17.png" width=150 >
+<img src="../image-18.png" width=150 >
+
+* Swipe the card to reveal a featured video.
 
 ## Chats Page
 
