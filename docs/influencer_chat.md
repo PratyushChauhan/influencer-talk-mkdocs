@@ -9,7 +9,7 @@
 
 * Click on `Chat` to initiate a conversation with the influencer.
 
-<img src="./influencer_chat_page.png" width=150 >
+<img src="./image-1.png" width=150 >
 
 ## Video call and Voice call requests 
 
